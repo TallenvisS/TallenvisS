@@ -1,6 +1,6 @@
-Hi my name is Tomasz 
-I’m currently learning java and python.
-my mail: humersjusz@protonmail.com
+-Hi my name is Tomasz 
+-I’m currently learning java and python.
+-my mail: humersjusz@protonmail.com
 
 <!---
 TallenvisS/TallenvisS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
